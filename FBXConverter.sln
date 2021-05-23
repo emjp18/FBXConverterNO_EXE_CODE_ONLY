@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FBXConverter", "FBXConverter\FBXConverter.vcxproj", "{FB441243-3505-47AB-9E5E-BE50D807EDB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB441243-3505-47AB-9E5E-BE50D807EDB0}.Debug|x64.ActiveCfg = Debug|x64
+		{FB441243-3505-47AB-9E5E-BE50D807EDB0}.Debug|x64.Build.0 = Debug|x64
+		{FB441243-3505-47AB-9E5E-BE50D807EDB0}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB441243-3505-47AB-9E5E-BE50D807EDB0}.Debug|x86.Build.0 = Debug|Win32
+		{FB441243-3505-47AB-9E5E-BE50D807EDB0}.Release|x64.ActiveCfg = Release|x64
+		{FB441243-3505-47AB-9E5E-BE50D807EDB0}.Release|x64.Build.0 = Release|x64
+		{FB441243-3505-47AB-9E5E-BE50D807EDB0}.Release|x86.ActiveCfg = Release|Win32
+		{FB441243-3505-47AB-9E5E-BE50D807EDB0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2ED2C57-CA43-4ADC-B0DE-C8A79F108F5A}
+	EndGlobalSection
+EndGlobal
